@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1></h1>
+    </div>
+    <div class="w3-padding-64">
+      <a href="#home" class="theaflores.github.io">Home</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Requirements</a>
+      <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Salary</a>
+      <a href="#company" class="http://www.uwhealth.org/burn-trauma-surgery/burn-and-trauma-surgery/12607">Company</a>
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>Trauma Surgery</h1>
+      <img src="222.Png" class="w3-margin w3-circle" alt="symbol" style="width:50%">
+      <div class="w3-left-align w3-padding-large">
+      
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64">
+      <h2>Work</h2>
+      <p>Professionals on The Job.</p>
+    </div>
+    <div class="w3-row">
+      <div class="w3-full">
+        <img src="444 (2).jpg" style="width:100%">
+      </div>
+    </div>
+    <p>Just call them awesome.</p>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64">
+      <h2>Requirements</h2>
+      <p>The basic outline</p>
+      </div>
+    <div class="w3-row">
+      <div class="w3-full">
+         <img src="Capture8.PNG" style="width:100%">
+      </div>
+    </div>
+    <p>Wow</p>
+  
+      <div class="w3-container w3-responsive">
+       
+      </div>
+    </div>
+  </div>
+</div>
