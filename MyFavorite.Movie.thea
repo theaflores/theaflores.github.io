@@ -21,7 +21,7 @@
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
     <div class="w3-padding-64 w3-center">
       <h1>Trailer</h1>
-     <a href="https://www.youtube.com/watch?v=G7DlUCtgjo8">Click Here For Trailer!</a>
+      <a href="https://www.youtube.com/watch?v=G7DlUCtgjo8">Click Here For Trailer!</a>
       <div class="w3-left-align w3-padding-large">
         <p>Enjoy!</p>
         
@@ -30,7 +30,7 @@
   </div>
 </div>
 
-<!-- Second Grid: Work & Resume -->
+<!-- Second Grid:synopsis-->
 <div class="w3-row">
   <div class="w3-full w3-light-grey w3-center" style="min-height:800px" id="work">
     <div class="w3-padding-64">
@@ -40,7 +40,7 @@
     </div>
   </div>
 </div>
-<!-- Third Grid: Swing By & Contact -->
+<!-- Third Grid:personal review -->
   </div>
   <div class="w3-full w3-indigo w3-container" style="min-height:800px" id="review">
     <div class="w3-padding-64 w3-center">
