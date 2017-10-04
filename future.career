@@ -13,16 +13,18 @@
       <h1></h1>
     </div>
     <div class="w3-padding-64">
-      <a href="#home" class="theaflores.github.io">Home</a>
+      <a href="theaflores.github.io">Home</a>
       <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Requirements</a>
       <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Salary</a>
-      <a href="#company" class="http://www.uwhealth.org/burn-trauma-surgery/burn-and-trauma-surgery/12607">Company</a>
+      <a href="http://www.uwhealth.org/burn-trauma-surgery/burn-and-trauma-surgery/12607">Company</a>
     </div>
   </div>
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
-    <div class="w3-padding-64 w3-center">
+   <div class="w3-padding w3-center">
+    <div class="w3-container w3-center">
       <h1>Trauma Surgery</h1>
-      <img src="222.Png" class="w3-margin w3-circle" alt="symbol" style="width:50%">
+      	
+      <img src="222.Png" style="width:100%">
       <div class="w3-left-align w3-padding-large">
       
       </div>
@@ -62,3 +64,19 @@
     </div>
   </div>
 </div>
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-full w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>$</h1>
+    </div>
+    <div class="w3-padding-64">
+      <p>Salary?</p>
+      <p>Trauma salary is $382,099, as of September 27, 2017, with a range usually between $332,258-$453,726, however this can vary widely depending on a variety of factors.</p>
+      <p>This depends on the hospital,your connections, and experience</p>
+      
+  
+    </div>
+  </div>
+</div>
+
