@@ -13,10 +13,10 @@
       <h1></h1>
     </div>
     <div class="w3-padding-64">
-      <a href="theaflores.github.io">Home</a>
+      <a href="theaflores.github.io" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Home</a>
       <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Requirements</a>
       <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Salary</a>
-      <a href="http://www.uwhealth.org/burn-trauma-surgery/burn-and-trauma-surgery/12607">Company</a>
+      <a href="http://www.uwhealth.org/burn-trauma-surgery/burn-and-trauma-surgery/12607" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Company</a>
     </div>
   </div>
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
