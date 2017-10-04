@@ -21,8 +21,7 @@
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
     <div class="w3-padding-64 w3-center">
       <h1>Trailer</h1>
-     <iframe width="420" height="345" src="https://www.youtube.com/embed/G7DlUCtgjo8">
-</iframe>
+     <a href="https://www.youtube.com/watch?v=G7DlUCtgjo8">Click Here For Trailer!</a>
       <div class="w3-left-align w3-padding-large">
         <p>Enjoy!</p>
         
@@ -51,3 +50,4 @@
       </div>
 </body>
 </html>
+
